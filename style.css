@@ -6,3 +6,27 @@ body{
   width: 460px;
 }
 
+body{
+  background: url(https://static.pexels.com/photos/82277/nature-river-wood-tree-82277.jpeg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+.card {
+  background-color: rgba(34, 34, 34, .9);
+}
+
+h4{
+  color: white;
+}
+
+h6{
+  color: white;
+  float: left;
+  border: 1px solid grey;
+  margin-left: 5px;
+}
+
